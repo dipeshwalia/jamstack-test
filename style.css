@@ -1,12 +1,14 @@
-    html, body {
-        color: #555;
-        font-family: sans-serif;
-        font-size: 18px;
-        margin: 0;
-    }
+html,
+body {
+  color: #555;
+  background-color: yellow;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
 
-    main {
-        margin: 3rem auto;
-        max-width: 90vh;
-        height: 50ch;
-    }
+main {
+  margin: 3rem auto;
+  max-width: 90vh;
+  height: 50ch;
+}
